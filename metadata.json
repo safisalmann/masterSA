@@ -1,0 +1,6 @@
+{
+  "name": "Master Bangla Vocabulary Quiz",
+  "description": "Minimalist English Vocabulary MCQ practice with Bengali meanings, BCS & University questions, and instant explanations in a fixed mobile layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
