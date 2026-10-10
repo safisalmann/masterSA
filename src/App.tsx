@@ -371,17 +371,6 @@ export default function App() {
                   )
                 )}
               </div>
-
-              {/* Target Word Bengali Meaning (Prioritized from PDF) */}
-              <div className="mt-1.5 flex items-center justify-between text-xs border-t border-slate-800/80 pt-1.5">
-                <span className="text-slate-400 text-[11px] font-bangla">
-                  মূল শব্দ:{' '}
-                  <span className="font-semibold text-slate-200">{currentQ.targetWord}</span>
-                </span>
-                <span className="font-bangla font-semibold text-indigo-300 bg-indigo-950/40 px-2 py-0.5 rounded text-[11px]">
-                  {currentQ.wordMeaningBangla}
-                </span>
-              </div>
             </div>
 
             {/* 2. Four Minimalist MCQ Options (Height-optimized) */}
